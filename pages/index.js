@@ -8,7 +8,8 @@ function Index() {
       <section>
         <Link href="/about">
           <a>Go to About Me</a>
-        </Link>
+        </Link><br/>
+        <Link href="/internal/testing"><a>Go to TESTING</a></Link>
       </section>
     </main>
   );
